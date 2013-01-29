@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Business-PostNL
-version:            0.12
+version:            0.13
 abstract:           Calculate Dutch (PostNL) shipping costs
 author:
     - M. Blom (blom@cpan.org)
